@@ -1,0 +1,13 @@
+{
+  "devDependencies": {
+    "lite-server": "^2.6.1",
+    "typescript": "4.8.3"
+  },
+  "scripts": {
+    "start": "lite-server"
+  },
+  "name": "simpleToDoList",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT"
+}
